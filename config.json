@@ -1,0 +1,27 @@
+{
+  "options": {
+    "paths": {
+      "fonts": "fonts",
+      "styles": "styles"
+    }
+  },
+  "styles": {
+    "test-style": {
+      "style": "osm-bright/style.json",
+      "tilejson": {
+        "type": "overlay"
+      }
+    },
+    "streets": {
+      "style": "Streets(cln075kih02vq01nz8u1sh5k4)/style.json",
+      "tilejson": {
+        "type": "overlay"
+      }
+    }
+  },
+  "data": {
+    "openmaptiles": {
+      "mbtiles": "maptiler-osm-2020-02-10-v3.11-europe_france.mbtiles"
+    }
+  }
+}

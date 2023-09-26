@@ -1,0 +1,15 @@
+{
+  "name": "tile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ol-mapbox-style": "^12.0.0",
+    "tileserver-gl-light": "^4.5.0"
+  }
+}
